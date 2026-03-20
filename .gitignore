@@ -21,7 +21,7 @@ rad.json
 #Test results file
 TestResults.xml
 venv/
-models/*.pkl
+# models/*.pkl
 data/*.csv
 mlruns/
 
